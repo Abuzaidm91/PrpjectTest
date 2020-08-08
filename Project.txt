@@ -1,1 +1,2 @@
+Hi there Im user 1 - this my second commit
 First Commit - user2
